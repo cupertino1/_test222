@@ -1,0 +1,5 @@
+﻿Configuration.xml-->Configuration.xml
+Catalogs\Справочник1.xml-->Catalogs\Справочник1.xml
+Documents\Документ1.xml-->Documents\Документ1.xml
+Languages\Русский.xml-->Languages\Русский.xml
+Subsystems\Подсистема1.xml-->Subsystems\Подсистема1.xml
